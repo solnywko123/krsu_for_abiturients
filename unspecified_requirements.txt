@@ -1,0 +1,12 @@
+Django==3.2
+djangorestframework
+django-cors-headers
+django-3-jet
+django-ckeditor
+Pillow==9.1.1
+django-admin-sortable2
+django-cleanup==6.0.0
+mixer==7.2.2
+django-solo==2.0.0
+drf-yasg==1.20.0
+psycopg2-binary==2.9.3
